@@ -10,10 +10,10 @@
 
 ### Autenticação
 
-- [ ] Deve retornar os id ao cadastrar um novo usuário
-- [ ] Deve retornar 201 ao cadastrar um novo usuário
-- [ ] Deve retornar 400 ao tentar cadastrar sem email e senha
-- [ ] Deve retornar 400 se o email for duplicado
+- [X] Deve retornar os id ao cadastrar um novo usuário
+- [X] Deve retornar 201 ao cadastrar um novo usuário
+- [X] Deve retornar 400 ao tentar cadastrar sem email e senha
+- [X] Deve retornar 400 se o email for duplicado
 
 | campos   | descrição                             | tipo     | obrigatório |
 | :-----   | :------------------------------------ | :------- | :---------- |
