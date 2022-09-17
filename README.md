@@ -8,7 +8,7 @@
 
 ## 🔖 Requisitos funcionais
 
-### Autenticação
+### Cadastro
 
 - [X] Deve retornar os id ao cadastrar um novo usuário
 - [X] Deve retornar 201 ao cadastrar um novo usuário
@@ -22,7 +22,7 @@
 
 ## 🔖 Requisitos não funcionais
 
-### Autenticação
+### Cadastro
 
 - [ ] O cadastro com sucesso deve ocorrer em até 2 segundos
 - [ ] Cadastros sem sucesso devem ocorrer em até 2 segundos
