@@ -26,7 +26,7 @@
 
 - [ ] O cadastro com sucesso deve ocorrer em até 2 segundos
 - [ ] Cadastros sem sucesso devem ocorrer em até 2 segundos
-- [ ] Deve poder cadastrar até 1000 usuários simultâneos
+- [ ] Deve poder cadastrar até 100 usuários simultâneos
 - [ ] A margem de erro no cadastro deve ser de pelo menos 1%
 
 ## 🚀 Tecnologias
